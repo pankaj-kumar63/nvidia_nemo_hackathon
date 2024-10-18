@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Regarding Meiosis, which of the statements is incorrect?",
+        "correct_answer": "DNA replication occurs in S phase of Meiosis -II",
+        "user_answer": "Pairing of homologous chromosomes and recombination occurs in Meiosis -I",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "If ‘8’ Drosophila  in a laboratory population of ‘80’ died during a week, the death rate in the population is",
+        "correct_answer": "0.1",
+        "user_answer": "0.1",
+        "chapter": "Population Dynamics"
+    },
+    {
+        "question": "Which of the following statements with respect to Endoplasmic Reticulum is incorrect?",
+        "correct_answer": "In prokaryotes, ER is absent be it RER or SER.",
+        "user_answer": "In prokaryotes only RER are present",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Match List -I with List -II. List-I List-II (a) Metacentric chromosome (i) Centromere situated close to the end forming one extremely short and one very long arms (b) Acrocentric chromosome (ii) Centromere at the terminal end (c) Submetacentric (iii) Centromere in the middle forming two equal arms of chromosomes (d) Telocentric chromosome (iv) Centromere slightly away from the middle forming one shorter arm and one longer arm Choose the correct answer from the options given below : (1) (a)-(ii), (b) -(iii), (c) -(iv), (d)-(i) (2) (a)-(i), (b) -(ii), (c) -(iii), (d) -(iv) (3) (a)-(iii), (b) -(i), (c) -(iv), (d) -(ii) (4) (a)-(i), (b) -(iii), (c) -(ii), (d) -(iv) Answer (3) Sol. In metacentric chromosome, centromere is in the middle of the chromosomes. Acrocentric chromosome has c entromere close to the end of the chromosome. In submetacentric chromosome, centromere is slightly away from the middle of the chromosome. Telocentric chromosome has terminal centromere. - 53 - ZOOLOGY SECTION -A",
+        "correct_answer": "(a)-(iii), (b) -(i), (c) -(iv), (d) -(ii)",
+        "user_answer": "(a)-(iii), (b) -(i), (c) -(iv), (d) -(ii)",
+        "chapter": "Cell Biology"
+    },
+    {
+        "question": "Tegmina in cockroach, arises from",
+        "correct_answer": "Mesothorax",
+        "user_answer": "Prothorax and Mesothorax",
+        "chapter": "Insect Anatomy"
+    },
+    {
+        "question": "Sertoli cells are regulated by the pituitary hormone known as :",
+        "correct_answer": "FSH",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium is provided with lactose, what will be the outcome?",
+        "correct_answer": "z, y, a genes will not be translated",
+        "user_answer": "z, y, a genes will not be translated",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following statements regarding cilia is not correct?",
+        "correct_answer": "The organized beating of cilia is controlled by fluxes of Ca2+ across the membrane",
+        "user_answer": "Cilia contain an outer ring of nine doublet microtubules surrounding two single microtubules",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Which one of the following is a matching set of a phylum and its three examples?",
+        "correct_answer": "Cnidaria",
+        "user_answer": "Cnidaria — Bonellia, Physalia, Aurelia",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distinctive feature?",
+        "correct_answer": "Diakinesis",
+        "user_answer": "Zygotene",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "What is the role of large bundle sheath cells found around the vascular bundles in C4 plants?",
+        "correct_answer": "4",
+        "user_answer": "To increase the number of chloroplast for the operation of Calvin cycle",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Which of the following is present between the adjacent bones of the vertebral column?",
+        "correct_answer": "Cartilage",
+        "user_answer": "Cartilage",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Select the incorrect statement.",
+        "correct_answer": "Inbreeding selects harmful recessive gene that reduce fertility and productivity.",
+        "user_answer": "Inbreeding helps in accumulation of superior genes and elimination of undesirable genes",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "While explaining interspecific interaction of population, (+) sign is assigned for beneficial interaction, ( –) sign is assigned for detrimental interaction and (0) for neutral interaction. Which of the following interactions can be assigned (+) for one species and ( –) for another species involved in the interaction?",
+        "correct_answer": "Predation",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which ecosystem has the maximum biomass?",
+        "correct_answer": "Forest ecosystem",
+        "user_answer": "Grassland ecosystem",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following is a correct statement?",
+        "correct_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "user_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which of the following occurs due to the presence of autosome linked dominant trait?",
+        "correct_answer": "Myotonic dystrophy",
+        "user_answer": "Thalessemia",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The transverse section of a plant shows following anatomical features :",
+        "correct_answer": "All features are related to monocotyledonous stems",
+        "user_answer": "Large number of scattered vascular bundles surrounded by bundle sheath",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "In the taxonomic categories which hierarchical arrangement in ascending order is correct in case of animals?",
+        "correct_answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "user_answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Homozygous purelines in cattle can be obtained by",
+        "correct_answer": "Mating of related individuals of same breed",
+        "user_answer": "Mating of individuals of different breed",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following occurs due to the presence of autosome linked dominant trait?",
+        "correct_answer": "Myotonic dystrophy",
+        "user_answer": "Not Answered",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following can be used as a bio control agent in the treatment of plant disease?",
+        "correct_answer": "Trichoderma",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "The formula for exponential population growth is:",
+        "correct_answer": "dN/dt = rN",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Match the items given in Column I with those in Column II and select the correct option given below :",
+        "correct_answer": "iii i ii",
+        "user_answer": "Not Answered",
+        "chapter": "Human Physiology"
+    },
+    {
+        "question": "Natural selection where more individuals acquire specific character value other than the mean character value, leads to",
+        "correct_answer": "Directional change",
+        "user_answer": "Disruptive change",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "I dentify the vertebrate group of animals characterized by crop and gizzard in its digestive system",
+        "correct_answer": "Aves",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which of the following stages of meiosis involves division of centromere?",
+        "correct_answer": "Anaphase II",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "correct_answer": "2) Endocrine glands regulate neural activity and nervous system regulates endocrine glands",
+        "user_answer": "Endocrine glands regulate neural activity, but not vice versa",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The centriole undergoes duplication during:",
+        "correct_answer": "S-phase",
+        "user_answer": "Metaphase",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Which of the following statements with respect to Endoplasmic Reticulum is incorrect?",
+        "correct_answer": "In prokaryotes, ER is absent be it RER or SER.",
+        "user_answer": "In prokaryotes only RER are present",
+        "chapter": "Cell Structure and Function"
+    }
+]

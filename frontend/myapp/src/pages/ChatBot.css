@@ -1,0 +1,98 @@
+
+.parent-container {
+    position:absolute;
+    display: flex;
+    flex-direction: row; /* If you plan to align the carousel next to the chatbot */
+    height: 100%; /* Ensure the parent takes full height */
+    width: 125%; /* Full width of the parent */
+}
+.chatbot-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 100%;
+    transition: width 0.5s ease-in-out; /* Transition when width changes */
+    overflow: hidden;
+  }
+  
+  .chatbot-wrapper.visible {
+    width: 600px; /* Full width when visible */
+  }
+  
+  .chatbot-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%; /* 100% of the wrapper's width */
+    height: 100%;
+    z-index: 999;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .chatbot-icon {
+      margin-right:130px;
+    text-align: center;
+  }
+  
+  .hide-chatpage-icon {
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+  }
+  
+  .chat-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    background-color: #f5f5f5;
+  }
+  
+  .message {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 8px;
+    max-width: 75%;
+  }
+  
+  .user-message {
+    word-wrap: break-word; 
+    background-color: #daf5d5;
+    align-self: flex-end;
+  }
+  
+  .bot-message {
+      word-wrap: break-word; 
+    background-color: #eee;
+    align-self: flex-start;
+  }
+  
+  .chat-input {
+    width:80%;
+    display: flex;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .chat-input input {
+    word-wrap: break-word;
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .chat-input button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .chat-input button:hover {
+    background-color: #45a049;
+  }
+  

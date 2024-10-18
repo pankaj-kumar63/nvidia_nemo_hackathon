@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "(1) (b), (c), (d) and (e) Only",
+        "user_answer": "Axillary buds form slender and spirally coiled tendrils in cucumber and pumpkin",
+        "chapter": "Plant Anatomy"
+    },
+    {
+        "question": "Which one of the following organisms bears hollow and pneumatic long bones?",
+        "correct_answer": "Neophron",
+        "user_answer": "Neophron",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "The fruit fly has 8 chromosomes (2n) in each cell. During interphase of Mitosis if the number of chromosomes at G1 phase is 8, what would be the number of chromosomes after S phase?",
+        "correct_answer": "8",
+        "user_answer": "8",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Osteoporosis is characterised by decreased bone mass and increased chance of fractures. Common cause of osteoporosis is increased levels of estrogen.",
+        "correct_answer": "2",
+        "user_answer": "is correct but (R) is not correct",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Sertoli cells are regulated by the pituitary hormone known as :",
+        "correct_answer": "FSH",
+        "user_answer": "Not Available",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which of the following pairs is wrongly matched?",
+        "correct_answer": "Starch synthesis in pea is controlled by pleiotropic gene.",
+        "user_answer": "Not Answered",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The infectious stage of Plasmodium that enters the human body is",
+        "correct_answer": "Sporozoites",
+        "user_answer": "Trophozoites",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Select the correct sequence for transport of sperm cells in male reproductive system.",
+        "correct_answer": "Seminiferous tubules  Rete testis  Vasa efferentia  Epididymis  Vas deferens  Ejaculatory duct Urethra  Urethral meatus",
+        "user_answer": "testis  Epididymis  Vasa efferentia  Rete testis -tInguinal canal  Urethra",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which of the following pairs of an animal and a plant represents endangered organisms in India?",
+        "correct_answer": "Bentinckia nicobarica and red panda",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "What is the fate of the male gametes discharged in the synergid?",
+        "correct_answer": "One fuses with the egg and other fuses with central cell nuclei.",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Bilaterally symmetrical and acoelomate animals are exemplified by",
+        "correct_answer": "Platyhelminthes",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Animals"
+    },
+    {
+        "question": "The transverse section of a plant shows following anatomical features :",
+        "correct_answer": "All features are related to monocotyledonous stems",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "The centriole undergoes duplication during:",
+        "correct_answer": "S-phase",
+        "user_answer": "Metaphase",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "The formula for exponential population growth is:",
+        "correct_answer": "dN/dt = rN",
+        "user_answer": "rN/dN = dt",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "The amnion of mammalian embryo is derived from",
+        "correct_answer": "Amnion is formed from mesoderm on outer side and ectoderm on inner side.",
+        "user_answer": "ectoderm and mesoderm",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "What type of placentation is seen in sweet pea?",
+        "correct_answer": "Axile",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "In the taxonomic categories which hierarchical arrangement in ascending order is correct in case of animals?",
+        "correct_answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "user_answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "What is the site of perception of photoperiod necessary for induction of flowering in plants?",
+        "correct_answer": "Leaves",
+        "user_answer": "Pulvinus",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Capacitation occurs in",
+        "correct_answer": "Female Reproductive tract",
+        "user_answer": "Vas deferens",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which of the following is present between the adjacent bones of the vertebral column?",
+        "correct_answer": "Cartilage",
+        "user_answer": "Intercalated discs",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following statements is not true?",
+        "correct_answer": "Flippers of penguins and dolphins are a pair of homologous organs",
+        "user_answer": "Homology indicates common ancestry",
+        "chapter": "Homology and Analogous Structures"
+    },
+    {
+        "question": "Which one of the following statements cannot be connected to Predation?",
+        "correct_answer": "Both the interacting species are negatively impacted",
+        "user_answer": "It is necessitated by nature to maintain the ecological balance",
+        "chapter": "Ecology and Environment"
+    },
+    {
+        "question": "Select the incorrect statement.",
+        "correct_answer": "Inbreeding selects harmful recessive gene that reduce fertility and productivity.",
+        "user_answer": "Inbreeding helps in accumulation of superior genes and elimination of undesirable genes",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following plants is monoecious?",
+        "correct_answer": "Chara",
+        "user_answer": "Carica papaya",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The body of the ovule is fused within the funicle at",
+        "correct_answer": "Hilum",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "2",
+        "user_answer": "The leaflets are modified into pointed hard thorns in Citrus and Bougainvillea",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Select the correct group of biocontrol agents.",
+        "correct_answer": "Trichoderma, Baculovirus,  Bacillus thuringiensis",
+        "user_answer": "Bacillus thuringiensis, Tobacco mosaic virus, Aphids",
+        "chapter": "Biology and Human Welfare"
+    },
+    {
+        "question": "Which of the following is present between the adjacent bones of the vertebral column?",
+        "correct_answer": "Cartilage",
+        "user_answer": "Intercalated discs",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Which of the following events does not occur in rough endoplasmic reticulum?",
+        "correct_answer": "Phospholipid synthesis does not take place in RER. Smooth endoplasmic reticulum are involved in lipid synthesis.",
+        "user_answer": "Not Answered",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Niche overlap indicates :",
+        "correct_answer": "3) sharing of one or more resources between the two species",
+        "user_answer": "active co-operation between two species",
+        "chapter": "Diversity in Living World"
+    }
+]

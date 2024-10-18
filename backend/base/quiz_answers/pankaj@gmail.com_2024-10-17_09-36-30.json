@@ -1,0 +1,182 @@
+[
+    {
+        "question": "W hich of the following is made up of dead cells?",
+        "correct_answer": "Phellem",
+        "user_answer": "Collenchyma",
+        "chapter": "Plant Anatomy"
+    },
+    {
+        "question": "Which of the following pairs of an animal and a plant represents endangered organisms in India?",
+        "correct_answer": "Bentinckia nicobarica and red panda",
+        "user_answer": "Cinchona and leopard",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "correct_answer": "2) Endocrine glands regulate neural activity and nervous system regulates endocrine glands",
+        "user_answer": "Endocrine glands regulate neural activity, but not vice versa",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The fruit fly has 8 chromosomes (2n) in each cell. During interphase of Mitosis if the number of chromosomes at G1 phase is 8, what would be the number of chromosomes after S phase?",
+        "correct_answer": "8",
+        "user_answer": "8",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "If ‘8’ Drosophila  in a laboratory population of ‘80’ died during a week, the death rate in the population is",
+        "correct_answer": "0.1",
+        "user_answer": "0.1",
+        "chapter": "Population Dynamics"
+    },
+    {
+        "question": "Osteoporosis is characterised by decreased bone mass and increased chance of fractures. Common cause of osteoporosis is increased levels of estrogen.",
+        "correct_answer": "4",
+        "user_answer": "(A) is correct but (R) is not correct",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which one of the following plants does not show plasticity?",
+        "correct_answer": "Maize",
+        "user_answer": "Maize",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "What would be the number of chromosomes in the cells of the aleurone layer in a plant species with 8 chromosomes in its synergids?",
+        "correct_answer": "8",
+        "user_answer": "8",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Praying  mentis  is a good example  of :",
+        "correct_answer": "mullerian  mimicry",
+        "user_answer": "social  insects",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "When the centromere is situated in the middle of two equal arms of chromosomes, the chromosome is referred as :",
+        "correct_answer": "Metacentric",
+        "user_answer": "Metacentric",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :",
+        "correct_answer": "Sites at which crossing over occurs",
+        "user_answer": "Sites at which crossing over occurs",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following statements is incorrect",
+        "correct_answer": "1) Yeasts have filamentous bodies with Iong thread-like hyphae.",
+        "user_answer": "Clabiceps is a source of many alkaloids and LSD.",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Nitrogenous waste is excreted in the form of pellet or paste by :",
+        "correct_answer": "Pavo",
+        "user_answer": "Pavo",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :",
+        "correct_answer": "Sites at which crossing over occurs",
+        "user_answer": "Terminalization",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The roots that originate from the base of the stem are",
+        "correct_answer": "Fibrous roots",
+        "user_answer": "Prop roots",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Which of the following statements are true for spermatogenesis but do not hold true for Oogenesis?",
+        "correct_answer": "b, c, e",
+        "user_answer": "Differentiation of gamete occurs after the completion of meiosis",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "In which disease does mosquito-transmitted pathogen cause chronic inflammation of lymphatic vessels?",
+        "correct_answer": "Elephantiasis",
+        "user_answer": "Ascariasis",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "The infectious stage of Plasmodium that enters the human body is",
+        "correct_answer": "Sporozoites",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "What is the site of perception of photoperiod necessary for induction of flowering in plants?",
+        "correct_answer": "Leaves",
+        "user_answer": "Pulvinus",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Secondary xylem and phloem in dicot stem are produced by",
+        "correct_answer": "Vascular cambium",
+        "user_answer": "Phellogen",
+        "chapter": "Plant Anatomy"
+    },
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "(1) (b), (c), (d) and (e) Only",
+        "user_answer": "Stem is flattened and fleshy in Opuntia and modified to perform the function of leaves",
+        "chapter": "Structural Organization in Plants"
+    },
+    {
+        "question": "A common structural feature of vessel elements and sieve tube elements is :",
+        "correct_answer": "3",
+        "user_answer": "pores on lateral walls",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Which of the following occurs due to the presence of autosome linked dominant trait?",
+        "correct_answer": "Myotonic dystrophy",
+        "user_answer": "Thalessemia",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The body of the ovule is fused within the funicle at",
+        "correct_answer": "Hilum",
+        "user_answer": "Chalaza",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "correct_answer": "Blood moves freely from atrium to the ventricle during joint diastole.",
+        "user_answer": "The tricuspid and the bicuspid valves open due to the pressure exerted by the simultaneous contraction of the atria",
+        "chapter": "Human Physiology"
+    },
+    {
+        "question": "Zygotic meiosis is characteristic of",
+        "correct_answer": "Chlamydomonas",
+        "user_answer": "Chlamydomonas",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The centriole undergoes duplication during:",
+        "correct_answer": "S-phase",
+        "user_answer": "Metaphase",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :",
+        "correct_answer": "Sites at which crossing over occurs",
+        "user_answer": "Sites at which crossing over occurs",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called",
+        "correct_answer": "Plasticity",
+        "user_answer": "1",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Receptors for sperm binding in mammals are present on :",
+        "correct_answer": "Zona pellucida",
+        "user_answer": "Vitelline membrane",
+        "chapter": "Reproduction"
+    }
+]

@@ -1,0 +1,70 @@
+/* Container for the whole result */
+.result-container {
+  padding: 20px;
+  background-color: #e9f3ec;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+/* Title for result */
+.result-title {
+  text-align: center;
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Score display */
+.result-score {
+  text-align: center;
+  font-size: 1.5em;
+  color: #4caf50;
+  margin-bottom: 30px;
+}
+
+/* Ordered list for questions */
+.result-list {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+/* Individual question item */
+.result-item {
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+/* Question text styling */
+.question-text {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+/* User's answer and correct answer text */
+.user-answer, .correct-answer {
+  margin-bottom: 5px;
+}
+
+/* Highlight the user's selected answer */
+.highlight-user-answer {
+  color: #e91e63;
+  font-weight: bold;
+}
+
+/* Highlight the correct answer */
+.highlight-correct-answer {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+/* If user has not answered */
+.not-answered {
+  color: #f44336;
+  font-weight: bold;
+}

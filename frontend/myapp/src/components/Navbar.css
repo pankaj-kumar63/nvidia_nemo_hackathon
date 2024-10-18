@@ -1,0 +1,54 @@
+.main-navbar {
+    position: absolute;
+    width: 100vw;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    /* Set transparent background */
+}
+
+.navbar-toggler-icon {
+    color: #fff !important;
+}
+
+.btn {
+    border: 1px solid rgb(200, 192, 192) !important;
+    color: #fff;
+}
+
+.main-navbar .nav-link {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    /* Adjust text color to stand out on the background image */
+}
+
+.main-navbar .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.5);
+    /* Adjust toggle button color if needed */
+}
+
+@media screen and (max-width: 768px) {
+    .btn {
+        border: 1px solid rgb(200, 192, 192) !important;
+        color: #fff;
+    }
+
+}
+
+
+@media screen and (max-width: 992px) {
+    .main-navbar {
+        background-color: rgba(0, 0, 0, 0.5) !important;
+        /* Set transparent background */
+    }
+
+    .right-side-button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: block !important;
+        margin-top: 7px;
+        /* border: 2px solid red; */
+    }
+
+}

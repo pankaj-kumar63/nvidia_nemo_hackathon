@@ -1,0 +1,116 @@
+[
+    {
+        "question": "What is the branch of biology that deals with the classification of organisms?",
+        "chapter": "The Living World",
+        "user_answer": "Taxonomy",
+        "correct_answer": "Taxonomy"
+    },
+    {
+        "question": "Which part of the cell is known as the powerhouse?",
+        "chapter": "Cell - The Unit of Life",
+        "user_answer": "Mitochondria",
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "Cnidocytes are characteristic of which phylum?",
+        "chapter": "Animal Kingdom",
+        "user_answer": "Cnidaria",
+        "correct_answer": "Cnidaria"
+    },
+    {
+        "question": "Double fertilization is a unique characteristic of:",
+        "chapter": "Plant Kingdom",
+        "user_answer": "Pteridophytes",
+        "correct_answer": "Angiosperms"
+    },
+    {
+        "question": "Which of the following is a disaccharide?",
+        "chapter": "Biomolecules",
+        "user_answer": "Lactose",
+        "correct_answer": "Lactose"
+    },
+    {
+        "question": "Which type of epithelial tissue lines the kidney tubules?",
+        "chapter": "Structural Organisation in Animals",
+        "user_answer": "Cuboidal",
+        "correct_answer": "Cuboidal"
+    },
+    {
+        "question": "Which part of the plant is modified into the tendrils in Passiflora?",
+        "chapter": "Morphology of Flowering Plants",
+        "user_answer": "Flower",
+        "correct_answer": "Leaf"
+    },
+    {
+        "question": "The five kingdom classification was proposed by:",
+        "chapter": "Biological Classification",
+        "user_answer": "Margulis",
+        "correct_answer": "R.H. Whittaker"
+    },
+    {
+        "question": "The excretory organs in annelids are:",
+        "chapter": "Animal Kingdom",
+        "user_answer": "Flame cells",
+        "correct_answer": "Nephridia"
+    },
+    {
+        "question": "The main function of the smooth endoplasmic reticulum is:",
+        "chapter": "Cell - The Unit of Life",
+        "user_answer": "Lipid synthesis",
+        "correct_answer": "Lipid synthesis"
+    },
+    {
+        "question": "Enzymes act by:",
+        "chapter": "Biomolecules",
+        "user_answer": "Providing energy to the reaction",
+        "correct_answer": "Lowering activation energy"
+    },
+    {
+        "question": "Bryophytes differ from algae in possessing:",
+        "chapter": "Plant Kingdom",
+        "user_answer": "Vascular tissue",
+        "correct_answer": "Multicellular sex organs"
+    },
+    {
+        "question": "The contractile proteins in muscles are:",
+        "chapter": "Structural Organisation in Animals",
+        "user_answer": "Actin and myosin",
+        "correct_answer": "Actin and myosin"
+    },
+    {
+        "question": "The xylem in plants is responsible for:",
+        "chapter": "Anatomy of Flowering Plants",
+        "user_answer": "Transport of water",
+        "correct_answer": "Transport of water"
+    },
+    {
+        "question": "Which of the following is a characteristic of chordates?",
+        "chapter": "Animal Kingdom",
+        "user_answer": "Absence of notochord",
+        "correct_answer": "Pharyngeal slits"
+    },
+    {
+        "question": "Which of the following is absent in prokaryotic cells?",
+        "chapter": "Cell - The Unit of Life",
+        "user_answer": "Mitochondria",
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "Viruses have which of the following properties?",
+        "chapter": "Biological Classification",
+        "user_answer": "Possess either DNA or RNA as genetic material",
+        "correct_answer": "Possess either DNA or RNA as genetic material"
+    },
+    {
+        "question": "In pteridophytes, the dominant phase is:",
+        "chapter": "Plant Kingdom",
+        "user_answer": "Zygote",
+        "correct_answer": "Sporophyte"
+    },
+    {
+        "question": "Binomial nomenclature was given by:",
+        "chapter": "The Living World",
+        "user_answer": "Darwin",
+        "correct_answer": "Linnaeus"
+    }
+]

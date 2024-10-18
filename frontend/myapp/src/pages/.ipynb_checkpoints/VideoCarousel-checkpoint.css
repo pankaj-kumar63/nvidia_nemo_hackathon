@@ -1,0 +1,11 @@
+/* VideoCarousel.css */
+
+.video-caraousel-body{
+    position:absolute;
+    top:0vw; 
+    right:48vw;
+    width: auto; 
+    height: 100vh;
+    overflow:auto;
+    /* margin-right:100px; */
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "The body of the ovule is fused within the funicle at",
+        "correct_answer": "Hilum",
+        "user_answer": "Nucellus",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which of the following is a correct statement?",
+        "correct_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "user_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Gemmae are present in",
+        "correct_answer": "Some Liverworts",
+        "user_answer": "Some Liverworts",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "HIV that causes  AIDS,  first starts  destroying  :",
+        "correct_answer": "helper  T-lymphocytes",
+        "user_answer": "helper  T-lymphocytes",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :",
+        "correct_answer": "Sites at which crossing over occurs",
+        "user_answer": "Terminalization",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following is not observed during apoplastic pathway ?",
+        "correct_answer": "The movement is aided by cytoplasmic streaming",
+        "user_answer": "Apoplast is continuous and does not provide any barrier to water movement",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "What is the role of large bundle sheath cells found around the vascular bundles in C4 plants?",
+        "correct_answer": "4",
+        "user_answer": "To increase the number of chloroplast for the operation of Calvin cycle",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :",
+        "correct_answer": "Sites at which crossing over occurs",
+        "user_answer": "Synaptonemal complex",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Which of the following is a correct statement?",
+        "correct_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "user_answer": "Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera.",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium is provided with lactose, what will be the outcome?",
+        "correct_answer": "z, y, a genes will not be translated",
+        "user_answer": "z, y, a genes will not be translated",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The roots that originate from the base of the stem are",
+        "correct_answer": "Fibrous roots",
+        "user_answer": "Fibrous roots",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Bilaterally symmetrical and acoelomate animals are exemplified by",
+        "correct_answer": "Platyhelminthes",
+        "user_answer": "Platyhelminthes",
+        "chapter": "Structural Organization in Animals"
+    },
+    {
+        "question": "Which of the following is not the function of conducting part of respiratory system?",
+        "correct_answer": "Provides surface for diffusion of O 2 and CO 2",
+        "user_answer": "Temperature of inhaled air is brought to body temperature",
+        "chapter": "Respiratory System"
+    },
+    {
+        "question": "The transverse section of a plant shows following anatomical features :",
+        "correct_answer": "All features are related to monocotyledonous stems",
+        "user_answer": "Large number of scattered vascular bundles surrounded by bundle sheath",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Which of the following features is used to identify a male cockroach from a female cockroach?",
+        "correct_answer": "Presence of caudal styles",
+        "user_answer": "Presence of a boat shaped sternum on the 9th abdominal segment",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "I dentify the types of cell junctions that help to stop the leakage of the substances across a tissue and facilitation of communication with neighbouring cells via rapid transfer of ions and molecules.",
+        "correct_answer": "Tight junctions and Gap junctions",
+        "user_answer": "Tight junctions and Gap junctions, respectively",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Cuboidal epithelium with brush border of microvilli is found in",
+        "correct_answer": "Proximal convoluted tubule of nephron",
+        "user_answer": "Proximal convoluted tubule of nephron",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "The ovary is half inferior in :",
+        "correct_answer": "Plum",
+        "user_answer": "Mustard",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "The formula for exponential population growth is:",
+        "correct_answer": "dN/dt = rN",
+        "user_answer": "dN/rN = dt",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Receptors for sperm binding in mammals are present on :",
+        "correct_answer": "Zona pellucida",
+        "user_answer": "Zona pellucida",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "What would be the number of chromosomes in the cells of the aleurone layer in a plant species with 8 chromosomes in its synergids?",
+        "correct_answer": "8",
+        "user_answer": "8",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Select the wrong statement :",
+        "correct_answer": "Pseudopodia are locomotory structures in sarcodines (Amoeboid)",
+        "user_answer": "Mitochondria are the powerhouse of the cell in all kingdoms except Monera",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Match List -I with List -II. List-I List-II (a) Metacentric chromosome (i) Centromere situated close to the end forming one extremely short and one very long arms (b) Acrocentric chromosome (ii) Centromere at the terminal end (c) Submetacentric (iii) Centromere in the middle forming two equal arms of chromosomes (d) Telocentric chromosome (iv) Centromere slightly away from the middle forming one shorter arm and one longer arm Choose the correct answer from the options given below : (1) (a)-(ii), (b) -(iii), (c) -(iv), (d)-(i) (2) (a)-(i), (b) -(ii), (c) -(iii), (d) -(iv) (3) (a)-(iii), (b) -(i), (c) -(iv), (d) -(ii) (4) (a)-(i), (b) -(iii), (c) -(ii), (d) -(iv) Answer (3) Sol. In metacentric chromosome, centromere is in the middle of the chromosomes. Acrocentric chromosome has c entromere close to the end of the chromosome. In submetacentric chromosome, centromere is slightly away from the middle of the chromosome. Telocentric chromosome has terminal centromere. - 53 - ZOOLOGY SECTION -A",
+        "correct_answer": "(a)-(iii), (b) -(i), (c) -(iv), (d) -(ii)",
+        "user_answer": "(a)-(iii), (b) -(i), (c) -(iv), (d) -(ii)",
+        "chapter": "Cell Biology"
+    },
+    {
+        "question": "Match the trophic levels with their correct species examples in grassland ecosystem.",
+        "correct_answer": "(1) (ii) (iii) (iv) (i)",
+        "user_answer": "First trophic level (iii) Rabbit",
+        "chapter": "Ecology and Environment"
+    },
+    {
+        "question": "Among the following sets of examples for divergent evolution, select the incorrect option:",
+        "correct_answer": "Eye of octopus, bat and man",
+        "user_answer": "Heart of bat, man and cheetah",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "What is common about Trypanosoma, Noctiluca, Monocystis and Giardia?",
+        "correct_answer": "1) These are all unicellular protists",
+        "user_answer": "These are all unicellular protists",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Identify the asexual reproductive structure associated with Penicillium",
+        "correct_answer": "Conidia",
+        "user_answer": "Zoospores",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
+        "correct_answer": "M phase",
+        "user_answer": "G1 phase",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Hypersecretion of Growth Hormone in adults does not cause further increase in height, because",
+        "correct_answer": "Epiphyseal plates close after adolescence",
+        "user_answer": "Bones loose their sensitivity to Growth Hormone in adults",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "The centriole undergoes duplication during:",
+        "correct_answer": "S-phase",
+        "user_answer": "Metaphase",
+        "chapter": "Cell Structure and Function"
+    }
+]

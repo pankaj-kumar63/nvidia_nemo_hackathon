@@ -1,0 +1,7 @@
+.timer-component{
+    position: absolute;
+    top: 0;
+    right: 10vw;
+    transform: translateX(-50%);
+    color: black;
+}

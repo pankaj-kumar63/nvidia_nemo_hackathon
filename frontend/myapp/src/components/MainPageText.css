@@ -1,0 +1,23 @@
+.main-div {
+    font-family: "Work Sans", sans-serif;
+    position: absolute;
+    width: 100vw;
+    top: 30vh;
+    left: 5vw;
+    color: aliceblue;
+    /* border: 1px solid ; */
+}
+
+.main-page-text h1 {
+    /* border: 1px solid; */
+    width: 40vw;
+}
+
+.main-page-text p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-page-text p:nth-child(3) {
+    width: 40vw;
+}

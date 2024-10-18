@@ -1,0 +1,19 @@
+.success-section{
+    display: flex;
+    width: fit-content;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #859392;
+}
+.success-section-icon{
+    font-size: 2.5rem;
+    color: #fff;
+    padding: 5px;
+    padding-right: 15px;
+
+}
+.success-section-content{
+    color: #fff;
+}

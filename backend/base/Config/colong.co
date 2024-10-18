@@ -1,0 +1,53 @@
+define user ask llama
+    "tell me about llama 2?"
+    "what is large language model?"
+    "where did meta's new model come from?"
+
+define flow llama
+    user ask llama
+    bot respond about llama
+
+
+define user ask chat
+    "give the content on reproduction in plant"
+    "give the content on genes"
+    "give the content on animal"
+
+define subflow self check facts
+  if $check_facts == True
+    $check_facts = False
+
+    $accuracy = execute self_check_facts
+    if $accuracy < 0.5
+      bot refuse to respond
+      stop
+
+define flow chat
+    user ask chat
+    $initialized = execute value()
+
+    if not $initialized
+        $data = execute data()
+        $Email_Id = execute student_id()
+        $answer = execute student_data(query=$last_user_message, data=$data,Email_Id=$Email_Id)
+        set $initialized = True
+        bot $answer
+    else
+        
+        $classification = execute classification_query(query=$last_user_message)
+        if $classification == 'internet_search'
+            $answer = execute int_search(query=$last_user_message)
+            $check_facts = True
+            bot $answer
+
+        else
+            if $classification == 'vector_store'
+                $contexts = execute retriever(query=$last_user_message)
+                $answer = execute rag(query=$last_user_message, contexts=$contexts)
+                $check_facts = True
+                bot $answer
+            else 
+                $answer = execute memory_agent_query(query=$last_user_message)
+                bot $answer
+        
+        

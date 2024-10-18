@@ -1,0 +1,31 @@
+.dashboard-body{
+    margin-top:120px;
+    /* background-color: #f9f9f9; */
+    height: 100vh;
+}
+
+.markdown-report-data{
+    color:green;
+    height:90vh;
+    overflow:auto;
+}
+/* styles.css */
+.tab-container .nav-link {
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.tab-container .nav-link:hover {
+    background-color: #f0f0f0; /* Hover background color */
+}
+
+.tab-container .nav-link.active {
+    background-color: #007bff; /* Active (clicked) background color */
+    color: white; /* Change text color on active */
+}
+
+/* Optional: Change color of disabled tab */
+.tab-container .nav-link.disabled {
+    background-color: #e9ecef; /* Disabled background color */
+    color: gray; /* Text color for disabled */
+}
+

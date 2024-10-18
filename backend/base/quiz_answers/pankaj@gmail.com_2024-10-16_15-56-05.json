@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Niche is",
+        "correct_answer": "the functional role played by the organism where it lives",
+        "user_answer": "the range of temperature that the organism needs to live",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "What is common about Trypanosoma, Noctiluca, Monocystis and Giardia?",
+        "correct_answer": "1) These are all unicellular protists",
+        "user_answer": "These are all unicellular protists",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Match the items given in Column I with those in Column II and select the correct option given below :",
+        "correct_answer": "iii i ii",
+        "user_answer": "iii i ii",
+        "chapter": "Human Physiology"
+    },
+    {
+        "question": "Which one of the following plants does not show plasticity?",
+        "correct_answer": "Maize",
+        "user_answer": "Coriander",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Natural selection where more individuals acquire specific character value other than the mean character value, leads to",
+        "correct_answer": "Directional change",
+        "user_answer": "Stabilising change",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "What is the site of perception of photoperiod necessary for induction of flowering in plants?",
+        "correct_answer": "Leaves",
+        "user_answer": "Lateral buds",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "(1) (b), (c), (d) and (e) Only",
+        "user_answer": "Stem is flattened and fleshy in Opuntia and modified to perform the function of leaves",
+        "chapter": "Plant Anatomy"
+    },
+    {
+        "question": "Receptor sites for neurotransmitters are present on",
+        "correct_answer": "Post-synaptic membrane",
+        "user_answer": "Post-synaptic membrane",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium is provided with lactose, what will be the outcome?",
+        "correct_answer": "z, y, a genes will not be translated",
+        "user_answer": "z, y, a genes will not be translated",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which one of the following statements cannot be connected to Predation?",
+        "correct_answer": "One of the species in predation gains benefit on the expense of the other.",
+        "user_answer": "It is necessitated by nature to maintain the ecological balance",
+        "chapter": "Ecology and Environment"
+    },
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "2",
+        "user_answer": "Rhizophora shows vertically upward growing roots that help to get oxygen for respiration",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "W hich of the following is made up of dead cells?",
+        "correct_answer": "Phellem",
+        "user_answer": "Collenchyma",
+        "chapter": "Plant Anatomy"
+    },
+    {
+        "question": "Osteoporosis is characterised by decreased bone mass and increased chance of fractures. Common cause of osteoporosis is increased levels of estrogen.",
+        "correct_answer": "4",
+        "user_answer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The production of gametes by the parents, formation of zygotes, the F1 and F2 plants, can be understood from a diagram called :",
+        "correct_answer": "Punnett square",
+        "user_answer": "Bullet square",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "The transverse section of a plant shows following anatomical features :",
+        "correct_answer": "All features are related to monocotyledonous stems",
+        "user_answer": "Large number of scattered vascular bundles surrounded by bundle sheath",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Match the trophic levels with their correct species examples in grassland ecosystem.",
+        "correct_answer": "(1) (ii) (iii) (iv) (i)",
+        "user_answer": "Second trophic level (ii) Vul ture",
+        "chapter": "Ecology and Environment"
+    },
+    {
+        "question": "In which of the following animals, digestive tract has additional chambers like crop and gizzard?",
+        "correct_answer": "Pavo , Psittacula , Corvus",
+        "user_answer": "Pavo , Psittacula , Corvus",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Tegmina in cockroach, arises from",
+        "correct_answer": "Mesothorax",
+        "user_answer": "Mesothorax",
+        "chapter": "Insect Anatomy"
+    },
+    {
+        "question": "Which of the following animals does not undergo metamorphosis?",
+        "correct_answer": "Earthworm",
+        "user_answer": "Earthworm",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following statements is incorrect ?",
+        "correct_answer": "Cyclic photophosphorylation involves only PS I.",
+        "user_answer": "Both ATP and NADPH + H+ are synthesized during non-cyclic photophosphorylation",
+        "chapter": "Photosynthesis"
+    },
+    {
+        "question": "Which one of the following plants does not show plasticity?",
+        "correct_answer": "Maize",
+        "user_answer": "Coriander",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Match the following columns and select the correct option.",
+        "correct_answer": "Not Available",
+        "user_answer": "(iv) (ii) (iii) (i)",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
+        "correct_answer": "M phase",
+        "user_answer": "S phase",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "In which mode of inheritance do you expect more maternal influence among the offspring?",
+        "correct_answer": "Cytoplasmic",
+        "user_answer": "Y-linked",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Receptors for sperm binding in mammals are present on :",
+        "correct_answer": "Zona pellucida",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "What would be the number of chromosomes in the cells of the aleurone layer in a plant species with 8 chromosomes in its synergids?",
+        "correct_answer": "8",
+        "user_answer": "8",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Among the following characters, which one was not considered by Mendel in his experiments on pea?",
+        "correct_answer": "Nature of trichomes i.e., glandular or non-glandular was not considered by Mendel.",
+        "user_answer": "Trichomes – Glandular or non-glandular",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "If ‘8’ Drosophila  in a laboratory population of ‘80’ died during a week, the death rate in the population is",
+        "correct_answer": "0.1",
+        "user_answer": "0.1",
+        "chapter": "Population Dynamics"
+    },
+    {
+        "question": "Bowman's glands are found in:",
+        "correct_answer": "olfactory epithelium",
+        "user_answer": "juxtamedullary nephrons",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Which ecosystem has the maximum biomass?",
+        "correct_answer": "Forest ecosystem",
+        "user_answer": "Forest ecosystem",
+        "chapter": "Not Available"
+    }
+]

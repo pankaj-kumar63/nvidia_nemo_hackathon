@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Which of the following statements is not true?",
+        "correct_answer": "Flippers of penguins and dolphins are a pair of homologous organs",
+        "user_answer": "Flippers of penguins and dolphins are a pair of homologous organs",
+        "chapter": "Evolution"
+    },
+    {
+        "question": "Natural selection where more individuals acquire specific character value other than the mean character value, leads to",
+        "correct_answer": "Directional change",
+        "user_answer": "Random change",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following animals does not undergo metamorphosis?",
+        "correct_answer": "Earthworm",
+        "user_answer": "Tunicate",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following is not a connective tissue?",
+        "correct_answer": "Neuroglia",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Which of the following is incorrectly matched?",
+        "correct_answer": "Ulothrix is a member of Chlorophyceae (green algae), with reserve food material, starch.",
+        "user_answer": "Porphyra – Floridian Starch",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following occurs due to the presence of autosome linked dominant trait?",
+        "correct_answer": "Myotonic dystrophy",
+        "user_answer": "Not Answered",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "correct_answer": "Ovules are not enclosed by ovary wall in gymnosperms",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Alexander Von Humboldt described for the first time",
+        "correct_answer": "Species area relationships",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Identify the correct set of statements:",
+        "correct_answer": "(1) (b), (c), (d) and (e) Only",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants"
+    },
+    {
+        "question": "At which stage of life the oogenesis process is initiated?",
+        "correct_answer": "Embryonic development stage",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "The formula for exponential population growth is:",
+        "correct_answer": "dN/dt = rN",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "W hich one of the following plants shows a very close relationship with a species of moth, where none of the two can complete its life cycle without the other?",
+        "correct_answer": "Yucca",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which one of the following plants does not show plasticity?",
+        "correct_answer": "Maize",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which one of the following plants does not show plasticity?",
+        "correct_answer": "Maize",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Which of the following statements with respect to Endoplasmic Reticulum is incorrect?",
+        "correct_answer": "In prokaryotes, ER is absent be it RER or SER.",
+        "user_answer": "Not Answered",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium is provided with lactose, what will be the outcome?",
+        "correct_answer": "z, y, a genes will not be translated",
+        "user_answer": "Not Answered",
+        "chapter": "Genetics and Evolution"
+    },
+    {
+        "question": "Which one of the following plants shows vexillary aestivation and diadelphous stamens?",
+        "correct_answer": "Pisum sativum",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "Root hairs develop from the region of",
+        "correct_answer": "Maturation",
+        "user_answer": "Not Answered",
+        "chapter": "Structural Organization in Plants and Animals"
+    },
+    {
+        "question": "In water hyacinth and water lily, pollination takes place by :",
+        "correct_answer": "Insects or wind",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Nitrogenous waste is excreted in the form of pellet or paste by :",
+        "correct_answer": "Pavo",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Which of the following components provides sticky character to the bacterial cell?",
+        "correct_answer": "Glycocalyx",
+        "user_answer": "Not Answered",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "In a growing population of a country,",
+        "correct_answer": "pre-reproductive individuals are more than the reproductive individuals.",
+        "user_answer": "Not Answered",
+        "chapter": "Population Dynamics"
+    },
+    {
+        "question": "Which of the following is not observed during apoplastic pathway?",
+        "correct_answer": "The movement is aided by cytoplasmic streaming",
+        "user_answer": "Not Answered",
+        "chapter": "Plant Physiology"
+    },
+    {
+        "question": "Which of the following is present between the adjacent bones of the vertebral column?",
+        "correct_answer": "Cartilage",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following features is used to identify a male cockroach from a female cockroach?",
+        "correct_answer": "Presence of caudal styles",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    },
+    {
+        "question": "Identify the microorganism which is responsible for the production of an immunosuppressive molecule cyclosporin A :",
+        "correct_answer": "Trichoderma polysporum",
+        "user_answer": "Not Answered",
+        "chapter": "Biology and Human Welfare"
+    },
+    {
+        "question": "Praying  mentis  is a good example  of :",
+        "correct_answer": "mullerian  mimicry",
+        "user_answer": "Not Answered",
+        "chapter": "Diversity in Living World"
+    },
+    {
+        "question": "Osteoporosis is characterised by decreased bone mass and increased chance of fractures. Common cause of osteoporosis is increased levels of estrogen.",
+        "correct_answer": "Option (1) is the correct answer as osteoporosis is due to decreased levels of oestrogen.",
+        "user_answer": "Not Answered",
+        "chapter": "Not Available"
+    },
+    {
+        "question": "Which of the following statements regarding cilia is not correct?",
+        "correct_answer": "The organized beating of cilia is controlled by fluxes of Ca2+ across the membrane",
+        "user_answer": "Cilia contain an outer ring of nine doublet microtubules surrounding two single microtubules",
+        "chapter": "Cell Structure and Function"
+    },
+    {
+        "question": "Zygotic meiosis is characteristic of",
+        "correct_answer": "Chlamydomonas",
+        "user_answer": "Not Answered",
+        "chapter": "Reproduction"
+    }
+]
